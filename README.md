@@ -55,6 +55,7 @@ uv pip install -e .
   }
 }
 ```
-
-### Contributions 
+# Demo video
+https://drive.google.com/file/d/1s1TJYIjrLJzjo4t-IHcEKoHjNjQkgN-L/view
+# Contributions 
 Contributions, issues, and feature requests are welcome. Please open an issue to discuss your ideas or report bugs.
